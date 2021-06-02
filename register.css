@@ -1,12 +1,9 @@
 body {
-    margin: 0;
-    padding: 0;
-    background: url(back2.jpg);
-    background-position: center;
-    font-family: sans-serif;
-    background-repeat: no-repeat;
-    background-size: 500%;
-  }
+  margin: 0;
+  padding: 0;
+  background-color: #9bc400;
+  font-family: sans-serif
+}
 
   .register {
     width: 320px;
