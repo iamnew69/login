@@ -1,12 +1,9 @@
 body {
   margin: 0;
   padding: 0;
-  background: url(back2.jpg);
+  background color: rgb(188, 201, 190);
   background-position: center;
   font-family: sans-serif;
-  background-repeat: no-repeat;
-  background-size: 200%;
-  height: 100%;
 }
 
 /*The above code is Login background*/
