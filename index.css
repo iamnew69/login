@@ -1,0 +1,36 @@
+body {
+    background-image: url(back2.jpg);
+    background-size: cover;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    height: 36px;
+    background-color: #000;
+    font-size: 13px;
+    line-height: 36px;
+}
+
+li {
+    float: left;
+    border-right: 1px solid #156ee2;
+}
+
+a {
+    display: block;
+    padding: 0 28px;
+    font-family: cursive;
+    font-style: initial;
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover, .active a {
+    background-color: #156ee2;
+}
+
+.active {
+    background-color: #156ee2;
+}
