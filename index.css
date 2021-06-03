@@ -1,6 +1,8 @@
 body {
-    background-image: url(back2.jpg);
-    background-size: cover;
+  margin: 0;
+  padding: 0;
+  background-image: url(back2.jpg);
+  background-size: cover;
 }
 
 ul {
